@@ -10,3 +10,6 @@ Run npm install in both drawing/ and chat/ with their own terminal windows
 Start both of the servers, "node client.js" and "npm start" respectively
 
 Open main.html to get the collab work page
+
+# Additional Info
+Due to wifi outages at the event version control was not used and files were instead transferred by usb. Uploading final product for showcasing purposes
